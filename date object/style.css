@@ -1,0 +1,24 @@
+
+body{
+    background-image: url(realistic-eid-al-adha-bakrid-greeting-design_1017-38893.avif);
+    background-repeat: none;
+    width: 100%;
+    height: 100%;
+}
+
+.main-box{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+
+}
+
+.box-1>h1{
+    font-size: 40px;
+}
+
+.main-box>.box-1>h1{
+    font-size: 40px;
+
+}
+
