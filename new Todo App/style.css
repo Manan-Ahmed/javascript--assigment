@@ -1,0 +1,29 @@
+.hide{
+    display: none;
+}
+
+.error{
+    background-color: red;
+    text-align: center;
+}
+
+#add-todo-container{
+    text-align: center;
+}
+
+.inp{
+    width: 500px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.display{
+    width: 800px;
+    height: 20px;
+    border: 1px solid black;
+    
+}
+
+.display>button{
+    right:auto;
+}
